@@ -1,4 +1,4 @@
-import pygame, sys, os, random, time
+import pygame, sys, random
 from constants import *
 from pathlib import Path
 
