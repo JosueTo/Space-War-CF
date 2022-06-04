@@ -1,5 +1,4 @@
-from pickle import TRUE
-import pygame, sys, os, random, time
+import pygame, os
 
 # CONSTANTES DE PANTALLA
 screen_width = 800
