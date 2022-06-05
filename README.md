@@ -2,9 +2,10 @@
 <h3>Proyecto final para el bootcamp de Introducción a la Programación de Código Facilito.
 
   Para ejecutar el juego necesitaras tener instalado en tu computadora lo siguiente:
-  
-  -Python.
-  -Librería Pygame.
+  <ol>
+    <li>Python.</li>
+    <li>Librería Pygame.</li>
+  </ol>
  
  Finalmente ejecuta el archivo main.py para jugar.
   
